@@ -1,0 +1,27 @@
+{
+    "lastName": "Перетятько",
+    "firstName": "Никита",
+    "middleName": "Валерьевич",
+    "yearOfBirth": 2010,
+    "grade": 7,
+    "lastGrade": 11,
+    "favoriteSubjects": [
+        "Математика",
+        "Русский язык",
+        "Информатика"
+    ],
+    "placeOfRegistration": {
+        "country": "Россия",
+        "city": "Кемерово",
+        "street": "Красная",
+        "building": 12,
+        "apartments": 46
+    },
+    "placeOfLiving": {
+        "country": "Россия",
+        "city": "Кемерово",
+        "street": "Красная",
+        "building": 12,
+        "apartments": 46
+    }
+}
